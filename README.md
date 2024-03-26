@@ -48,7 +48,7 @@ Flutter Battleground Vision Pro is an innovative, Flutter-based battleground gam
    Use Git to clone the project's repository to your local machine:
 
    ```sh
-   git clone https://github.com/yourusername/flutter-battleground-vision-pro.git
+   git clone https://github.com/iPrakharV/Vision-OS-Google-AI-Hackathon
    ```
 
 2. **Project Setup:**
@@ -110,6 +110,6 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ## Contact Information
 
-- **Developer:** iPrakharV – [@yourtwitter](https://twitter.com/iprakharv) - connnect@iprakharv.com
-- **Project Link:** [https://github.com/yourusername/flutter-battleground-vision-pro](https://github.com/yourusername/flutter-battleground-vision-pro)
+- **Developer:** iPrakharV – [@iprakharv](https://twitter.com/iprakharv) - connnect@iprakharv.com
+- **Project Link:** [https://github.com/iPrakharV/Vision-OS-Google-AI-Hackathon](https://github.com/iPrakharV/Vision-OS-Google-AI-Hackathon)
 
