@@ -13,7 +13,7 @@ class MainApp extends StatelessWidget {
       debugShowCheckedModeBanner: false, // Set this to false to remove the debug banner
       home: const Scaffold(
         body: Center(
-          child: Text('Hello World!'),
+          child: Text('VisionOS'),
         ),
       ),
     );
