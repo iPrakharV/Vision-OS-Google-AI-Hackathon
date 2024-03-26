@@ -1,21 +1,19 @@
 import 'package:flutter/material.dart';
+import 'screens/home_screen.dart';
 
 void main() {
-  runApp(const MainApp());
+  runApp(BattlegroundVisionPro());
 }
 
-class MainApp extends StatelessWidget {
-  const MainApp({super.key});
-
+class BattlegroundVisionPro extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      debugShowCheckedModeBanner: false, // Set this to false to remove the debug banner
-      home: const Scaffold(
-        body: Center(
-          child: Text('VisionOS'),
-        ),
+      title: 'Flutter Battleground Vision Pro',
+      theme: ThemeData(
+        primarySwatch: Colors.blue,
       ),
+      home: HomeScreen(),
     );
   }
 }
