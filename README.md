@@ -5,6 +5,10 @@
 ## Introduction
 
 Flutter Battleground Vision Pro is an innovative, Flutter-based battleground game designed exclusively for Vision Pro devices. By harnessing the capabilities of the Gemini API, this app provides real-time, dynamic gaming environments that react to in-game events and player actions. Experience the thrill of strategy and combat with high-definition graphics and an intuitive, immersive interface.
+### Head Developers:<br>
+<a href="https://github.com/iPrakharV/Vision-OS-Google-AI-Hackathon/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=iPrakharV/Vision-OS-Google-AI-Hackathon" />
+</a> <br>
 
 ## Features
 
